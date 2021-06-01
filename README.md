@@ -16,12 +16,8 @@ Codecademy's Excursion project on their Full Stack Engineer path way to display 
 No installation required, but user can clone repository. 
 
 ## Usage 
-This application is based on the wireframe below:
+This is a static webpage based on a mock up and concept is based on marketing for a new product.
 <img src='resources/images/excursion-cc-mock.png'>
-
-The site I created: 
-<img src='resources/images/scr1.png'>
-<img src='resources/images/scr2.png'>
 
 Site is hosted on [Github Pages](nicolewallace09.github.io/excursion/)
 
